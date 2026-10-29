@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">Voltar</string>
+    <string name="sphop_app_logo_description">Logótipo do jogo</string>
+    <string name="sphop_main_menu_tagline">Combine todos os pares</string>
+    <string name="main_menu_play">Começar</string>
+    <string name="main_menu_high_scores">Melhores marcas</string>
+    <string name="main_menu_about">Info do jogo</string>
+    <string name="main_menu_exit">Sair</string>
+    <string name="menu_start_summary_format">%1$s · tabuleiro de %2$d cartas</string>
+    <string name="menu_scores_moves_label">Jogadas</string>
+    <string name="menu_scores_time_label">Cronómetro</string>
+    <string name="menu_scores_empty">Conclua um jogo para criar um recorde</string>
+    <string name="menu_about_subtitle">Guia e detalhes</string>
+    <string name="menu_exit_subtitle">Fechar o jogo</string>
+    <string name="menu_previous_difficulty">Nível mais fácil</string>
+    <string name="menu_next_difficulty">Nível mais difícil</string>
+    <string name="sphop_difficulty_title">Escolha um nível</string>
+    <string name="difficulty_easy">Modo fácil</string>
+    <string name="difficulty_medium">Modo médio</string>
+    <string name="difficulty_hard">Modo difícil</string>
+    <string name="difficulty_pairs_format">%1$d pares iguais</string>
+    <string name="difficulty_cards_pairs_format">%1$d cartas · %2$d pares</string>
+    <string name="game_moves_format">Jogadas: %1$d</string>
+    <string name="game_preview_format">Memorize! %1$d</string>
+    <string name="game_playing_hint">Combine as cartas</string>
+    <string name="game_best_none">Recorde: –</string>
+    <string name="game_best_format">Recorde: %1$d jogadas · %2$s</string>
+    <string name="game_time_format">Decorrido: %1$s</string>
+    <string name="game_hud_moves_label">Jogadas</string>
+    <string name="game_hud_time_label">Cronómetro</string>
+    <string name="game_hud_pairs_label">Pares</string>
+    <string name="game_hud_pairs_format">%1$d / %2$d encontrados</string>
+    <string name="game_hud_minimal_format">%1$d jogadas · %2$s</string>
+    <string name="game_finished_title">Tabuleiro concluído!</string>
+    <string name="game_finished_moves_format">Total de jogadas: %1$d</string>
+    <string name="game_finished_time_format">Tempo final: %1$s</string>
+    <string name="game_finished_new_record_format">%1$s — novo recorde!</string>
+    <string name="game_play_again">Jogar de novo</string>
+    <string name="game_main_menu">Menu principal</string>
+    <string name="dialog_exit_title">Sair desta ronda?</string>
+    <string name="dialog_exit_message">O progresso desta ronda será eliminado.</string>
+    <string name="dialog_action_confirm">Sair da ronda</string>
+    <string name="dialog_action_cancel">Continuar a jogar</string>
+    <string name="sphop_high_scores_title">Melhores resultados</string>
+    <string name="high_scores_empty">Os recordes aparecerão aqui</string>
+    <string name="high_scores_filter_moves">Menos jogadas</string>
+    <string name="high_scores_filter_time">Mais rápidos</string>
+    <string name="high_scores_filter_date">Recentes</string>
+    <string name="high_score_card_score_format">%1$d jogadas · %2$s</string>
+    <string name="high_score_card_rank_format">Posição %1$d</string>
+    <string name="high_score_card_moves_label">Jogadas</string>
+    <string name="high_score_card_time_label">Duração</string>
+    <string name="high_score_card_date_label">Jogado</string>
+    <string name="sphop_about_title">Detalhes do jogo</string>
+    <string name="about_rules_title">Guia do jogo</string>
+    <string name="about_version_format">Versão %1$s</string>
+    <string name="about_developer_label">Criado por</string>
+    <string name="about_contact_label">Contacte-nos</string>
+    <string-array name="about_rules">
+        <item>O tabuleiro fica visível por alguns segundos — memorize a posição de cada carta.</item>
+        <item>Após a pré-visualização, todas são ocultadas. Toque numa carta para a virar.</item>
+        <item>Encontre a carta igual à que virou.</item>
+        <item>Escolha um nível: os níveis mais difíceis têm mais cartas no tabuleiro.</item>
+    </string-array>
+</resources>

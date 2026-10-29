@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">Kembali</string>
+    <string name="sphop_app_logo_description">Logo gim</string>
+    <string name="sphop_main_menu_tagline">Cocokkan semua pasangan</string>
+    <string name="main_menu_play">Mulai</string>
+    <string name="main_menu_high_scores">Skor Terbaik</string>
+    <string name="main_menu_about">Info Gim</string>
+    <string name="main_menu_exit">Keluar</string>
+    <string name="menu_start_summary_format">%1$s · papan %2$d kartu</string>
+    <string name="menu_scores_moves_label">Langkah</string>
+    <string name="menu_scores_time_label">Pengatur waktu</string>
+    <string name="menu_scores_empty">Selesaikan gim untuk membuat rekor</string>
+    <string name="menu_about_subtitle">Panduan dan detail</string>
+    <string name="menu_exit_subtitle">Tutup gim</string>
+    <string name="menu_previous_difficulty">Tingkat lebih mudah</string>
+    <string name="menu_next_difficulty">Tingkat lebih sulit</string>
+    <string name="sphop_difficulty_title">Pilih Tingkat</string>
+    <string name="difficulty_easy">Mode Mudah</string>
+    <string name="difficulty_medium">Mode Sedang</string>
+    <string name="difficulty_hard">Mode Sulit</string>
+    <string name="difficulty_pairs_format">%1$d pasangan cocok</string>
+    <string name="difficulty_cards_pairs_format">%1$d kartu · %2$d pasangan</string>
+    <string name="game_moves_format">Langkah: %1$d</string>
+    <string name="game_preview_format">Hafalkan! %1$d</string>
+    <string name="game_playing_hint">Cocokkan kartunya</string>
+    <string name="game_best_none">Rekor: –</string>
+    <string name="game_best_format">Rekor: %1$d langkah · %2$s</string>
+    <string name="game_time_format">Berlalu: %1$s</string>
+    <string name="game_hud_moves_label">Langkah</string>
+    <string name="game_hud_time_label">Pengatur waktu</string>
+    <string name="game_hud_pairs_label">Pasangan</string>
+    <string name="game_hud_pairs_format">%1$d / %2$d ditemukan</string>
+    <string name="game_hud_minimal_format">%1$d langkah · %2$s</string>
+    <string name="game_finished_title">Papan selesai!</string>
+    <string name="game_finished_moves_format">Total langkah: %1$d</string>
+    <string name="game_finished_time_format">Waktu akhir: %1$s</string>
+    <string name="game_finished_new_record_format">%1$s — rekor baru!</string>
+    <string name="game_play_again">Main lagi</string>
+    <string name="game_main_menu">Menu utama</string>
+    <string name="dialog_exit_title">Keluar dari ronde?</string>
+    <string name="dialog_exit_message">Kemajuan ronde ini akan dihapus.</string>
+    <string name="dialog_action_confirm">Keluar ronde</string>
+    <string name="dialog_action_cancel">Lanjut bermain</string>
+    <string name="sphop_high_scores_title">Hasil Terbaik</string>
+    <string name="high_scores_empty">Rekor akan muncul di sini</string>
+    <string name="high_scores_filter_moves">Langkah Tersedikit</string>
+    <string name="high_scores_filter_time">Tercepat</string>
+    <string name="high_scores_filter_date">Terbaru</string>
+    <string name="high_score_card_score_format">%1$d langkah · %2$s</string>
+    <string name="high_score_card_rank_format">Peringkat %1$d</string>
+    <string name="high_score_card_moves_label">Langkah</string>
+    <string name="high_score_card_time_label">Durasi</string>
+    <string name="high_score_card_date_label">Dimainkan</string>
+    <string name="sphop_about_title">Detail Gim</string>
+    <string name="about_rules_title">Panduan Bermain</string>
+    <string name="about_version_format">Rilis %1$s</string>
+    <string name="about_developer_label">Dibuat oleh</string>
+    <string name="about_contact_label">Hubungi Kami</string>
+    <string-array name="about_rules">
+        <item>Seluruh papan terlihat beberapa detik — hafalkan posisi setiap kartu.</item>
+        <item>Setelah pratinjau, semua kartu ditutup. Ketuk kartu untuk membaliknya.</item>
+        <item>Temukan kartu yang cocok dengan kartu yang dibalik.</item>
+        <item>Pilih tingkat: tingkat yang lebih sulit menampilkan lebih banyak kartu.</item>
+    </string-array>
+</resources>
