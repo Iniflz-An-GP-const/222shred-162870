@@ -1,0 +1,6 @@
+name=strings.xml
+bundle=stepup.app222shred.corpapp
+organization=STEPUP AUTO TRADING SUPPLIES LTD.
+alias=key
+pwd=NvBAwruEgtD4Pk3YEYE6
+key-pwd=NvBAwruEgtD4Pk3YEYE6
