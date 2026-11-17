@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106390643601",
+    "project_id": "bet-c99e6",
+    "storage_bucket": "bet-c99e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106390643601:android:426a4bb20f3c6753dd7030",
+        "android_client_info": {
+          "package_name": "stepup.app222shred.corpapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaF5MgJ-F3OqjNefX5yKHbcc39zqVGX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

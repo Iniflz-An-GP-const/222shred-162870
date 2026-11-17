@@ -4,4 +4,6 @@ plugins {
     alias(libs.plugins.kotlin.compose) apply false
     // KSP plugin for Room library
     id("com.google.devtools.ksp").version("2.3.6")
+    id("com.google.gms.google-services") version "4.4.4" apply false
+
 }
